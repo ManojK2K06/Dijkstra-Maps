@@ -1,0 +1,5 @@
+A djikstra city to city map linkage 
+
+To run: 
+Use mvn clean javafx:run 
+
